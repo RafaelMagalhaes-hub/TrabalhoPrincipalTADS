@@ -1,0 +1,60 @@
+body,table,tr,td,label,input,h1,h2,h3,h4,p,fieldset{
+	margin:0px;
+	padding:0px;
+}
+
+h1{
+	margin-top:10px;
+	margin-left:5px;
+	text-align:center;
+}
+
+fieldset{	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+}
+
+legend{
+	font-weight:bold;
+	font-style:oblique;
+}
+
+label{
+	display:inline-block;
+	margin-left:8px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+button{
+	margin:8px;
+}
+
+input{
+	width:200px;
+	display:inline-block;
+}
+
+select{
+	width:190px;
+}
+
+span{
+	text-align:center;
+	display:block;
+	margin-top:8px;
+	margin-bottom:8px;
+	margin-left:8px;
+	margin-right:8px;
+	color:red;
+	font-weight:bold;
+}
+
+#SexoM,#SexoF{
+	width:15px;
+}
+
+fieldset{
+	width:550px;
+}
